@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nabeel
 - 👀 I’m interested in software devlopment web and mobile.
-- 🌱 I’m currently learning flutter to devlop native applications
 - 💞️ I’m looking to collaborate on any project which i can contribute on something
 - 📫 here is my email nabeelsiddiquizw@gmail.com
 
